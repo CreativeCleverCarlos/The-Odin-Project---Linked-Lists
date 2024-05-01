@@ -23,3 +23,7 @@ class node {
         this.next = next;
     }
 }
+
+//this is not completed, stopped because the youtube video jI found just talked about the code that they already pre-prepped and completed, but didn't walk through how they did it all
+
+//in essence it's just methods being created and arrays with more steps. 
